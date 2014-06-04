@@ -1,0 +1,10 @@
+Consejos!!!!!
+Frontend
+Para que funcionesn exportar en el doble del tamaño que necesitamos
+jpg de 100x100 con 100% calidad
+es mejor sacarlo a la mitad de la calidad
+50%
+ejemplo
+si se neceista una imagen al 100x100 pixeles el doble seria 200x200 al de 200x200
+lo traemos con el 50% de calidad
+se ve mejor y pesa menos!!!!!!
